@@ -11,7 +11,7 @@ import { PhotosModule } from './photos/photos.module';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    PhotosModule
+    PhotosModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
